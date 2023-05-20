@@ -8,5 +8,11 @@ This work wants to improve the accuracy of housing price prediction using a comb
 ## Method
 1. Univariate Time-series prediction via Neural Network (NN) in ```TensorFlow```.
 2. Univariate Time-series prediction via Autoregressive integrated moving average (ARIMA) in ```statsmodels```.
+3. Combining these two models into one using the inverse-variance weighting method. 
+
+## Dataset
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?select=Housing.csv
+
+## Code
 
 
