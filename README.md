@@ -14,5 +14,9 @@ This work wants to improve the accuracy of housing price prediction using a comb
 https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?select=Housing.csv
 
 ## Code
+[programming](programming.ipynb)
+
+## Conclusion
+![alt text](VS.png)
 
 
